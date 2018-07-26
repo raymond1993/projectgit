@@ -1,8 +1,8 @@
 package org.newgithubdemo;
 
-public class NewGit {
+public class program2 {
 	public static void main(String[] args) {
-		System.out.println("raymond");
+		System.out.println("rakesh");
 	}
 
 }
